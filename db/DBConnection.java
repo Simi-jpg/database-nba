@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import utils.ClearConsole;
 
 public class DBConnection {
-    private static String userName = "jangidv";
-    private static String password = "7950798";
+    private static String userName = "*******";
+    private static String password = "*******";
 
     private static String connectionUrl = "jdbc:sqlserver://uranium.cs.umanitoba.ca:1433;"
             + "database=cs3380;"
