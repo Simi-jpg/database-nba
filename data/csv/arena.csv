@@ -1,0 +1,30 @@
+arena_id,arena_name,capacity,location,owner
+1,American Airlines Center,19200,"2500 Victory Ave, Dallas, TX 75219, USA",City of Dallas
+2,AT&T Center,18694,"1 Frost Bank Center Dr, San Antonio, TX 78219, USA",Bexar Commissioners Court
+3,Ball Arena,19520,"1000 Chopper Cir, Denver, CO 80204, USA",Kroenke Sports & Entertainment
+4,Barclays Center,19000,"620 Atlantic Ave, Brooklyn, NY 11217, USA",Empire State Development
+5,Capital One Arena,20647,"601 F St NW, Washington, DC 20004, USA",Monumental Sports & Entertainment
+6,Chase Center,18064,"1 Warriors Way, San Francisco, CA 94158, USA",Golden State Warriors
+7,Crypto.com Arena,19060,"1111 S Figueroa St, Los Angeles, CA 90015, USA",Anschutz Entertainment Group 
+8,Delta Center,18175,"301 S Temple, Salt Lake City, UT 84101, USA",Smith Entertainment Group
+9,FedExForum,18119,"191 Beale St, Memphis, TN 38103, USA",City of Memphis
+10,Fiserv Forum,17500,"1111 N Vel R. Phillips Ave, Milwaukee, WI 53203, USA",Wisconsin Center District
+11,Footprint Center,17071,"201 E Jefferson St, Phoenix, AZ 85004, USA",City of Phoenix
+12,Gainbridge Fieldhouse,18345,"125 S Pennsylvania St, Indianapolis, IN 46204, USA",City of Indianapolis
+13,Golden 1 Center,17500,"500 David J Stern Walk, Sacramento, CA 95814, USA",City of Sacramento
+14,Kaseya Center,19600,"601 Biscayne Blvd, Miami, FL 33132, USA",Miami-Dade County
+15,Kia Center,20000,"400 West Church Street, Orlando, FL 32801, USA",City of Orlando
+16,Little Caesars Arena,20332,"2645 Woodward Ave, Detroit, MI 48201, USA",City of Detroit
+17,Madison Square Garden,19500,"4 Pennsylvania Plaza, New York, NY 10001, USA",Sphere Entertainment Co.
+18,Moda Center,19980,"1 N Center Ct St, Portland, OR 97227, USA",City of Portland
+19,Paycom Center,18203,"100 W Reno Ave, Oklahoma City, OK 73102, USA",City of Oklahoma City
+20,Rocket Arena,19432,"1 Center Court, Cleveland, OH 44115, USA",Gateway Economic Development Corp.
+21,Scotiabank Arena,19800,"40 Bay St., Toronto, ON M5J 3A5, Canada",Maple Leaf Sports & Entertainment
+22,Smoothie King Center,17791,"1501 Dave Dixon Dr Space 101-102, New Orleans, LA 70113, USA",State of Louisiana
+23,Spectrum Center,19026,"333 E Trade St, Charlotte, NC 28202, USA",City of Charlotte
+24,State Farm Arena,18729,"1 State Farm Dr, Atlanta, GA 30303, USA",Atlanta Fulton County Recreation Authority
+25,Target Center,19356,"600 N 1st Ave, Minneapolis, MN 55403, USA",City of Minneapolis
+26,TD Garden,19156,"100 Legends Way, Boston, MA 02114, USA",Delaware North
+27,Toyota Center,18104,"1510 Polk St, Houston, TX 77002, USA",Harris County-Houston Sports Authority
+28,United Center,21711,"1901 W Madison St, Chicago, IL 60612, USA",United Center Joint Venture
+29,Wells Fargo Center,21000,"3601 S Broad St, Philadelphia, PA 19148, USA",Comcast Spectacor

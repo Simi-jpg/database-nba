@@ -1,0 +1,143 @@
+arena_id,facilities
+1,Seating
+1,VIP boxes
+1,Concessions
+1,Locker rooms
+1,Medical room
+2,Retractable seating
+2,Multi-use flooring
+2,Media area
+2,Public restrooms
+2,Security office
+3,Ice rink
+3,Heated seats
+3,First aid room
+3,Training gym
+3,Ticketing counters
+4,Hardwood court
+4,VIP lounge
+4,Press room
+4,Merchandise shop
+4,Parking
+5,Sound system
+5,LED lighting
+5,Food court
+5,Accessible seating
+5,Team changing room
+6,Retractable roof
+6,Hospitality suite
+6,Event space
+6,Security checkpoint
+7,Indoor track
+7,Gym facility
+7,Broadcast rooms
+7,Bathrooms
+7,Concession area
+8,Stage setup
+8,Modular seating
+8,VIP lounge
+8,Emergency exit
+8,Admin office
+9,Basketball court
+9,Ice resurfacer
+9,Medical facility
+9,Storage
+9,Locker rooms
+10,Volleyball court
+10,Training rooms
+10,Media center
+10,Wi-Fi
+10,Ticket counter
+11,Hockey rink
+11,Zamboni access
+11,Food kiosk
+11,VIP suite
+11,Public restrooms
+12,Sport floor
+12,Retractable bleachers
+12,Security office
+12,Medical room
+13,"Seating (7,000)"
+13,Luxury boxes
+13,Merchandise store
+13,Warm-up area
+13,Parking lot
+14,Multi-purpose
+14,Press box
+14,Hall of fame
+14,Concessions
+14,Accessible restroom
+15,Sound system
+15,Party suite
+15,Training gym
+15,Locker area
+15,First aid station
+16,Basketball/ice configuration
+16,Press room
+16,Security control
+16,Food court
+17,Sports flooring
+17,VIP seating
+17,Broadcast booth
+17,Concession
+17,Emergency exit
+18,Ice rink
+18,Locker/shower rooms
+18,Medical station
+18,Food stands
+18,Parking
+19,Retractable stands
+19,Mixed event space
+19,Security cams
+19,VIP box
+19,Restrooms
+20,Indoor track
+20,Gym center
+20,Press area
+20,Food vendor
+20,Accessible seating
+21,Hardwood
+21,Locker room
+21,Medical clinic
+21,Security checkpoint
+21,Concession
+22,Multi-seat
+22,Emergency exit
+22,Media room
+22,Hospitality suite
+22,Restrooms
+23,Ice rink
+23,VIP lounge
+23,Sound system
+23,Training room
+23,Wi-Fi
+24,Retractable seating
+24,Press box
+24,Concession
+24,Equipment room
+24,Medical clinic
+25,Basketball court
+25,Locker room
+25,Food court
+25,Security office
+25,Restroom
+26,Stage
+26,VIP seating
+26,Media center
+26,Medical room
+26,Restroom
+27,Hockey rink
+27,Zamboni
+27,"Seats (6,000)"
+27,Food vendor
+27,Locker room
+28,Multi-arena
+28,Retractable roof
+28,Broadcast room
+28,VIP area
+28,Concessions
+29,Basketball/volleyball court
+29,Training gym
+29,Press room
+29,"Seats (5,000)"
+29,Parking
