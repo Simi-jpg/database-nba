@@ -1,11 +1,11 @@
 GROUP 30:
     * Simi Adeniyi
-    * Vaishnavi Jangid
-    * Dencel Celis
+    * Member 2
+    * Member 3
 
 Connection to Uranium:
-    * USERNAME: jangidv
-    * PASSWORD: 7950798
+    * USERNAME: *******
+    * PASSWORD: *******
 
 Key Features:
     * 13 normalized tables
