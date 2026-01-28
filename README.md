@@ -1,24 +1,25 @@
-GROUP 30:
-    * Simi Adeniyi
-    * Member 2
-    * Member 3
+# NBA Database Querying System
 
-Connection to Uranium:
-    * USERNAME: *******
-    * PASSWORD: *******
+## Overview
+A relational database project designed to analyze NBA player and team performance using SQL and a Java-based application interface. The system supports structured queries and full CRUD operations through a JDBC-powered backend.
 
-Key Features:
-    * 13 normalized tables
-    * Query Interface: allows users to run 24 pre-defined queries
-    * Paging: implements paging for larger result sets
+## Features
+- 13-table normalized relational database schema
+- Complex SQL queries with joins, aggregations, and filters
+- Java application interface using JDBC
+- Full CRUD support for database entities
 
-Navigation:
-    * WASD to go up, down, left and right respectfully
-    * 0, Q to exit, quit or return to previous menu page (the console tells users what to input)
-    * Red prompts denote errors or warnins
-    * Green prompts mean success
+## Tech Stack
+- SQL
+- Java
+- JDBC
+- Relational Database (MSSQL)
 
-To run the program. follow these steps:
-    * make
-    * make run
-    * Interact with the menu options and enter user input as desired
+## Architecture / Design
+The database schema was collaboratively designed and normalized to reduce redundancy while supporting analytical queries. A Java application layer abstracts database interactions using object-oriented design, separating query logic from application logic.
+
+## Setup & Usage
+1. Import the database schema
+2. Populate tables with NBA data
+3. Run the Java application to query and modify records
+
